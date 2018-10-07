@@ -1,4 +1,4 @@
-package cp.hackerrank.challenges.hiring.cars24;
+package cp.hackerearth.challenges.hiring.cars24;
 
 import java.util.Arrays;
 import java.util.Scanner;
