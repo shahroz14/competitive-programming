@@ -5,6 +5,10 @@ public class Array {
 	static int[] arr;
 	static long[] cumulativeSum;
 	
+	public Array(int[] arr) {
+		setArray(arr);
+	}
+	
 	public static void setArray(int[] arr) {
 		Array.arr = arr;
 		cumulativeSum = new long[arr.length];
